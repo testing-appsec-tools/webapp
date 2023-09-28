@@ -1,5 +1,5 @@
 # Remediations for 7 vulnerabilities
-
+ 
 
 # /python.pyramid.security.sqlalchemy-sql-injection.pyramid-sqlalchemy-sql-injection.json
 from pyramid.view import view_config
